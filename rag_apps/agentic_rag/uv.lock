@@ -42,7 +42,7 @@ requires-dist = [
 
 [[package]]
 name = "agno"
-version = "2.3.24"
+version = "2.6.6"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "docstring-parser" },
@@ -59,9 +59,9 @@ dependencies = [
     { name = "typer" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/f7/da/80709b234d72b6b98aec1985cbfefc05ccf0d7cd7bf329204dc1a5439bcb/agno-2.3.24.tar.gz", hash = "sha256:75bbfaee62c8de64bf57cc4a95def32ae22413316074af340cde14b2e8e1b985", size = 1363519, upload-time = "2026-01-08T12:25:30.239Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/fa/b7/17c737b7a482b204eeb287e2c1616ed4abea93d71501810c37f269d002fb/agno-2.6.6.tar.gz", hash = "sha256:c8767ff7528a4f8b7aa8c0543592c3b9cc3c2e3f5a2852555a1c493408df3acf", size = 2025094, upload-time = "2026-05-14T07:35:01.598Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ef/06/72b04f253c6b1dd27528ddb692dcab66e65b690deb25313bab6db7f35edd/agno-2.3.24-py3-none-any.whl", hash = "sha256:94367f131f1182a45f89b053640706c1a8addb48eca580f969e4ca4f067fd2eb", size = 1648439, upload-time = "2026-01-08T12:25:28.57Z" },
+    { url = "https://files.pythonhosted.org/packages/fa/d1/1a9078840c00cd2b6a2968dd11cc107c72290424ff7dbd4baf9a87617ac3/agno-2.6.6-py3-none-any.whl", hash = "sha256:ba8795e020d2a036af312734c1a796b5064466d4c45ab6d64ea51ec5ec2b2cd7", size = 2405077, upload-time = "2026-05-14T07:34:59.063Z" },
 ]
 
 [[package]]
